@@ -1,0 +1,14 @@
+D:\Platform\Platform\Platform\bin\Debug\Platform.exe.config
+D:\Platform\Platform\Platform\obj\Debug\Platform.exe
+D:\Platform\Platform\Platform\obj\Debug\Platform.pdb
+D:\Platform\Platform\Platform\obj\Debug\Platform.csprojResolveAssemblyReference.cache
+D:\Platform\Platform\Platform\obj\Debug\Platform.OrderSetup.resources
+D:\Platform\Platform\Platform\obj\Debug\Platform.Properties.Resources.resources
+D:\Platform\Platform\Platform\obj\Debug\Platform.SecurityManager.resources
+D:\Platform\Platform\Platform\obj\Debug\Platform.WindowCluster.resources
+D:\Platform\Platform\Platform\obj\Debug\Platform.csproj.GenerateResource.Cache
+D:\Platform\Platform\Platform\bin\Debug\TickDB.mdf
+D:\Platform\Platform\Platform\bin\Debug\TickDB_log.ldf
+D:\Platform\Platform\Platform\bin\Debug\Platform.exe
+D:\Platform\Platform\Platform\bin\Debug\Platform.pdb
+D:\Platform\Platform\Platform\obj\Debug\Platform.Platform.resources
